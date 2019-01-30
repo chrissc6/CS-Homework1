@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * count to 100
+ * 
+ * have a max number of 25, then multiply 1, then 2, then 3, and so on until max number is reached
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
